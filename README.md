@@ -1,6 +1,6 @@
 # HTC Desire 626G+
 
-HTC Desire 626G+ device is a Mid-range smartphone from Panasonic.
+HTC Desire 626G+ device is a Mid-range smartphone from HTC.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
